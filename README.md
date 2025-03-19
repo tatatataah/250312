@@ -6,7 +6,6 @@
     - 누가 주로 사용하는가?
         - 개발자 
         GitHub,GitLab,Bitbucket등 코드 저장소에서 사용
-        - 문서작업자
 1. - 간단한 문법
 ### 예시 1
 [구글](https://google.com)  
