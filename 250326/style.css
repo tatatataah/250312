@@ -1,0 +1,43 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+body {
+    font-family:Noto Sans KR,sans-serif;
+    font-size: 20px;
+}
+
+div {
+    margin: 20px;
+    padding: 20px;
+    border: dotted 10px #ed00ba;
+    font-size: 2em;
+    color: #0000ee;
+    width: 300px;
+}
+
+
+table, tr,td,th{
+    border: solid 1px #000000;
+    
+}
+.membership{
+    display: block;
+    width: 400px;
+    text-align: center;
+    border: solid 2px #cccccc;
+    font-size: 1em;
+}
+h1{
+    color:  blue;
+    text-decoration: underline;
+    font-weight: 100;
+    text-align: center;
+    border: solid 1px goldenrod;
+
+h2,h3,h4,h5,h6{
+    font-family: Noto Sans KR, serif;
+}
+.divinline{
+    display: inline;
+}
+}
